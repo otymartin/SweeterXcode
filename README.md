@@ -1,4 +1,4 @@
-# Shmoney Theme for Xcode
+# Shmoney theme for Xcode
 A classy Xcode theme for an elite class of Swift writers.
 
 ![](ShmoneyThemePreview.jpeg)
