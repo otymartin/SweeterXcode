@@ -16,3 +16,6 @@ A classy Xcode theme for an elite class of Swift writers.
 4. As the author, I'm the only one with the legal right to break rule 3., I can't afford a 4K external monitor ATM.
 
 5. Share & Enjoy!
+
+## Installation
+Save the `Shmoney.xccolortheme` file to `~/Library/Developer/Xcode/FontAndColorThemes`
