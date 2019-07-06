@@ -2,6 +2,8 @@
 A classy Xcode theme for an elite class of Swift writers.
 
 ![](ShmoneyThemePreview.jpeg)
+![](String.png)
+
 
 
 ## License Restrictions
