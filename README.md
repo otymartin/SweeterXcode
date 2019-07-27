@@ -19,4 +19,5 @@ A classy Xcode theme for an elite class of Swift writers.
 
 ## Installation
 Save the `Shmoney.xccolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
-If 'FontAndColorThemes' folder does not exist, create it.
+
+If `FontAndColorThemes` folder does not exist, create it.
