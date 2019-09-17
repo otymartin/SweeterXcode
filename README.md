@@ -1,5 +1,5 @@
 # Shmoney theme for Xcode
-A classy Xcode theme for an elite class of Swift writers.
+A classier Xcode theme for classy Swift writers.
 
 ![](ShmoneyThemePreview.jpeg)
 ![](StringPreview.png)
@@ -7,7 +7,7 @@ A classy Xcode theme for an elite class of Swift writers.
 
 
 ## License Restrictions
-1. Only for elite engineers writing Swift - Do not waste this on Objective-C.
+1. Only for classy engineers writing Swift - Do not waste this on Objective-C you nerd!).
 
 2. Must have a natural affinity for good design otherwise I don't want to see this theme on your Xcode.
 
