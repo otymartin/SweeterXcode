@@ -5,8 +5,6 @@ A classier Xcode theme for classy Swift writers.
 A good looking theme is directly correlated with writing good code - this is a proven factual gut feeling.
 
 ![](ShmoneyThemePreview.jpeg)
-![](StringPreview.png)
-
 
 
 ## License Restrictions
