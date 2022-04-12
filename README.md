@@ -19,6 +19,6 @@ A good looking theme is directly correlated with writing good code - this is a p
 5. Share & Enjoy!
 
 ## Installation
-Save the `Shmoney.xccolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+Save the `SweeterXcode.xccolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
 If `FontAndColorThemes` folder does not exist, create it.
