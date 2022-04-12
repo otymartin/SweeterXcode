@@ -8,7 +8,7 @@ A good looking theme is directly correlated with writing good code - this is a p
 
 
 ## License Restrictions
-1. Only for classy engineers writing Swift - Do not waste this on Objective-C you nerd!).
+1. Only for classy engineers writing SwiftIU - Do not waste this on Objective-C you nerd!).
 
 2. Must have a natural affinity for good design and sweet looking code otherwise I don't want to see this theme on your Xcode.
 
