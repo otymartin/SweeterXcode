@@ -1,4 +1,4 @@
-# Shmoney theme for Xcode
+# Sweeter theme for Xcode
 A classier Xcode theme for classy Swift writers.
 
 # FACT:
